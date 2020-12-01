@@ -1,0 +1,7 @@
+1.git clone https://github.com/moonkabir/git-tuitorial.git
+2.cd git-tuitorial
+3.git status
+4.git add .
+5.git commit -m "message"
+6.git push -u origin master
+7.loop process every update 4-6
